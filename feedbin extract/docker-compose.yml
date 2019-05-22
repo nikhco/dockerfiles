@@ -1,0 +1,6 @@
+version: "3"
+services:
+  web:
+    image: khanna_extract
+    ports:
+      - "3000:3000"
